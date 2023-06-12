@@ -9,7 +9,7 @@ Currently I am interested in a career in a mining company, because I want to hon
 - 👯 I’m looking to collaborate as Human Resources Enthusiast
 - 🤔 I’m looking for suggest for Mining Company and Human Resources
 - 💬 Ask me about anything
-- 📫 How to reach me: [chandrapsi28@gmail.com] | [WhatsApp](https://wa.me/6285872012426/)
+- 📫 How to reach me: chandrapsi28@gmail.com | [WhatsApp](https://wa.me/6285872012426/)
 
 ## Skill:
 #### 1. [Interviewer]
@@ -76,9 +76,9 @@ Apart from studying, I am also actively developing my interests through organiza
 
 ## Publication:
 #### 1. [Journal of Psychology Student (JoPS)]
-“Modifikasi Alat Ukur Patience in Islamic Psychology”                                                                 `2022`
+[“Modifikasi Alat Ukur Patience in Islamic Psychology”](https://journal.uinsgd.ac.id/index.php/jops/article/download/16817/7182) `2022`
 #### 2. ["Digilib UIN Sunan Gunung Djati Bandung" and InSight - On Process]
-“Need for Closure sebagai Moderator Peran Fundamentalisme Agama terhadap Prasangka”                            `2022 & 2023`
+[“Need for Closure sebagai Moderator Peran Fundamentalisme Agama terhadap Prasangka”](https://etheses.uinsgd.ac.id/62438/) `2022 & 2023`
 
 ## Seminars, Training and Courses:
 ## Seminars
@@ -138,7 +138,5 @@ Apart from studying, I am also actively developing my interests through organiza
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/chandra.psi/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/chandra.psi/#gh-dark-mode-only)
-
-
 
 [webdev]: https://github.com/chandraitech/chandraitech
