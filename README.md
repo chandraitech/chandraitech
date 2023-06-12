@@ -1,4 +1,4 @@
-# Hi there, Chandra - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, [Chandra Permanasari](https://www.linkedin.com/in/chandra-permanasari-b62a4b1bb/?originalSubdomain=id) 👋
 ## Profile:
 I am a Bachelor of Psychology graduate in 2022, with experience working for 6 months at PT. Kimia Farma, Tbk. as the Assessment Center unit and worked as HR Recruitment for almost 6 months at PT. Gistex. I have good English skills, able to do simple language conversation for daily activities. In my previous position, I was responsible for facilitating an Assessment of 1,000 employees from every entity in every branch in Indonesia, while in my current position I can fulfill every employee request with the fastest time of 1 week.
 
@@ -9,7 +9,7 @@ Currently I am interested in a career in a mining company, because I want to hon
 - 👯 I’m looking to collaborate as Data Analyst
 - 🤔 I’m looking for suggest for Automation and Data Analyst
 - 💬 Ask me about anything
-- 📫 How to reach me: chandrapsi28@gmail.com
+- 📫 How to reach me: [chandrapsi28@gmail.com] | [WhatsApp](https://wa.me/6285872012426/)
 
 ## Skill:
 #### 1. [Interviewer]
@@ -81,11 +81,26 @@ Apart from studying, I am also actively developing my interests through organiza
 “Need for Closure sebagai Moderator Peran Fundamentalisme Agama terhadap Prasangka”                            `2022 & 2023`
 
 ## Seminars, Training and Courses:
-#### 1. [Psychologycal Rescue (Psychorescue)]
-#### 2. [Psychologycal Rescue (Psychorescue)]
-#### 3. [Psychologycal Rescue (Psychorescue)]
-#### 4. [Psychologycal Rescue (Psychorescue)]
-#### 5. [Psychologycal Rescue (Psychorescue)]
+## Seminars
+#### 1. [“Seminar Nasional Character Building”] `2018`
+#### 2. [“Pelatihan Protokoler”] `2019`
+#### 3. [“Workshop Penelitian Ilmiah”] `2019`
+#### 4. [“Webinar Nasional Relawan Psikososial”] `2021`
+#### 5. [“Nanti Kita Cerita Tentang HRD”] `2021`
+## Training
+#### 1. [“Manajemen Event Organizer”] `2019`
+#### 2. [“Relawan Penanggulangan Bencana”] `2019`
+#### 3. [“Manajemen Riset : Mengelola Riset dan Data”] `2021`
+#### 4. [“Basic Academic Writing Psychology”] `2022`
+#### 5. [“Kelas Mahir Jualan Online, Bukalapak x Haibolu”] `2022`
+## Courses
+#### 1. [“Junior Technical Support Bersertifikat BNSP”] `2017`
+#### 2. [“Database Programming Bersertifikat BNSP”] `2017`
+#### 3. [“Test Of English For Academic” - Skor 420] `2021`
+#### 4. [“Test Of Arabic For Academic” - Skor 365] `2021`
+#### 5. [“Information Communication Technology, Microsoft Word, Excel & Powerpoint”] `2021`
+#### 6. [“Key Performance Indicator (KPI) 101: Konsep, Studi Kasus dan Expert’s Tips”] `2023`
+#### 7. [“K3 (Keselamatan dan Kesehatan Kerja) Perkantoran”] `2023`
 
 ## Achievement:
 #### 1. [Discipline Commission of Psychology Study Orientation]                                                       `2019`
