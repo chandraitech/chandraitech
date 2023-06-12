@@ -1,30 +1,54 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, Chandra - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
 ## About me:
-- 🔭 I’m currently working at [Huawei](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
+I am a Bachelor of Psychology graduate in 2022, with experience working for 6 months at PT. Kimia Farma, Tbk. as the Assessment Center unit and worked as HR Recruitment for almost 6 months at PT. Gistex. I have good English skills, able to do simple language conversation for daily activities. In my previous position, I was responsible for facilitating an Assessment of 1,000 employees from every entity in every branch in Indonesia, while in my current position I can fulfill every employee request with the fastest time of 1 week.
+
+Currently I am interested in a career in a mining company, because I want to hone my mentality so that I can be even better and take advantage of youth to explore places I have not visited. In addition, the position currently being applied for is compatible with My previous job, so I have a tendency to adapt more quickly to every job task and the company's work environment. In the next three years I have a goal to work in a field that is relevant to my educational background and try to stay in that job with the aim of honing my competence and mentality in a new environment.
+
+- 🔭 I’m currently working at [PT. Gistex Garmen Indonesia](https://www.gistexgarmenindonesia.com/)
 - 🌱 I’m currently learning Python and Javascript
 - 👯 I’m looking to collaborate as Data Analyst
 - 🤔 I’m looking for suggest for Automation and Data Analyst
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me: chandrapsi28@gmail.com
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
+#### 1. [Sunan Gunung Djati State Islamic University, Bandung](https://uinsgd.ac.id/) | Bachelor of Psychology | Bandung `2018-2022`
    - Asistant Laboratorium of Basic Electronics
    - Asistant Laboratorium of Installation
    - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 1. [PT. Gistex Garmen Indonesia](https://www.gistexgarmenindonesia.com/) | Recruitment Specialist | Bandung `February'2023 - Present`
+   1.	Carry out end-to-end Process Recruitment activities based on requests;
+   2.	Create a Flayer design to reach many candidates
+   3.	Screening candidates via E-mail, Jobstreet, Gform and others
+   4.	Schedule Psychological Tests, HR and User Interviews as well as additional tests for candidates
+   5.	Scoring Psychotest results (TKD, DISC, PAPI Kostick, Pauli, TIU 5, Army B, Adkudag I, II, Army A to make Psychograms)
+   6.	Consulting prospective candidates to make contracts and offering letters
+   7.	Conduct Induction of candidates who have passed the selection of the company environment
+   8.	Make a Psychotest attendance list report, the number of requests for new employees each month and record every candidate who has passed the selection to the final stage.
+   9.	Filling in data and archiving files for the selected candidates
+   10.	Make ID Card designs for new employees
+   11.	Make SIINAS reports for the head office and branches every week
+   12.	Ensure that the HRD SIM provider remains active
+
+#### 2. [“Pusat Pendidikan Ajudan Jenderal” (Pusdikajen)](https://www.instagram.com/pusdikajen_official/?hl=id) | Pol-PP Observer | Bandung `February 2023`
+
+#### 3. [Enumerator of the Indonesian Ministry of PPA & UNFPA](https://www.unfpa.org/about-us) | Pol-PP Observer | Bandung `November 2022`
+
+#### 4. [PT. Kimia Farma, Tbk. (Internship)](https://www.kimiafarma.co.id/) | Talent Management - Assessment Centre | Jakarta `March - October 2022`
+   1.	Be actively involved in Mentorship Competencies Program (MCP) activities
+   2.	Be actively involved in Assessment for Mapping activities
+   3.	Scored 16PF, Akhlak Core Values, Papi Kostick, DISC and WZT
+   4.	Prepare Assessment needs such as collecting BEQ, CV and KPI
+   5.	Help make a schedule and check the attendance of participants
+   6.	Help make Human Value Scale Report 10 Batches (1/100 participants)
+   7.	Conducting research related to Talent Review, Job Grading and assisting the admin process.
+
+#### 3. [Desamart - "Badan Usaha Milik Daerah"](https://sukabumikab.go.id/web/opd/BUMD.asp) | Trainer & Observer | Sukabumi `February - March 2017`
+
+
 ---
 
 ### Languages and Tools:
