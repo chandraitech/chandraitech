@@ -1,5 +1,5 @@
 # Hi there, Chandra - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
-## About me:
+## Profile:
 I am a Bachelor of Psychology graduate in 2022, with experience working for 6 months at PT. Kimia Farma, Tbk. as the Assessment Center unit and worked as HR Recruitment for almost 6 months at PT. Gistex. I have good English skills, able to do simple language conversation for daily activities. In my previous position, I was responsible for facilitating an Assessment of 1,000 employees from every entity in every branch in Indonesia, while in my current position I can fulfill every employee request with the fastest time of 1 week.
 
 Currently I am interested in a career in a mining company, because I want to hone my mentality so that I can be even better and take advantage of youth to explore places I have not visited. In addition, the position currently being applied for is compatible with My previous job, so I have a tendency to adapt more quickly to every job task and the company's work environment. In the next three years I have a goal to work in a field that is relevant to my educational background and try to stay in that job with the aim of honing my competence and mentality in a new environment.
@@ -11,12 +11,19 @@ Currently I am interested in a career in a mining company, because I want to hon
 - 💬 Ask me about anything
 - 📫 How to reach me: chandrapsi28@gmail.com
 
-## Education:
-
-#### 1. [Sunan Gunung Djati State Islamic University, Bandung](https://uinsgd.ac.id/) | Bachelor of Psychology | Bandung `2018-2022`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
+## Skill:
+#### 1. [Interviewer]
+Having skills in carrying out the recruitment process from the Interview (BEI) stage, Observation, preparing reports to placing potential candidates.
+#### 2. [Administration and Scoring of Psychological Test Tools (Tester, Observer and Scorer)]
+Have skills in administering Psychology test kits such as EPPS, Papi Kostick, Holland, DISC, MBTI, BAUM, DAP, WZT, HTP, IST and CFIT. In addition, have skills in doing Basic Counseling.
+#### 3. [Statistics Software]
+Have the skills to operate statistics software such as SPSS, Lisrel and M Plus.
+#### 4. [Microsoft Office]
+Have skills in operating Microsoft Word such as making cover designs, creating report formats, verbatim, mailings, Mendeley, using Microsoft Power Point such as making simple presentations, using some basic Excel functions such as SUM, MIN, MAX, AVERAGE, COUNT, SUMIF, AVERAGEIF, COUNTIF, VLOOKUP, HLOOKUP etc. In addition, has used Access Database for programming purposes by VB.Net version 2009.
+#### 5. [Image and Video Processing Software]
+Having skills in making simple designs such as making banners, pamphlets etc. using Corel Draw, Photoshop and Canva software. In addition, having skills made simple videos for online media using Filmora and Adobe Illustrator software.
+#### 6. [Technical Support]
+Have skills in solving simple problems on computers and laptops such as installing Windows OS, Linux OS and application software.
 
 ## Work Experience:
 #### 1. [PT. Gistex Garmen Indonesia](https://www.gistexgarmenindonesia.com/) | Recruitment Specialist | Bandung `February'2023 - Present`
@@ -48,6 +55,45 @@ Currently I am interested in a career in a mining company, because I want to hon
 
 #### 3. [Desamart - "Badan Usaha Milik Daerah"](https://sukabumikab.go.id/web/opd/BUMD.asp) | Trainer & Observer | Sukabumi `February - March 2017`
 
+## Organizational Experience:
+#### 1. [Psychologycal Rescue (Psychorescue)]
+Head of Research and Development Division                                                                      `2020 - 2021`
+#### 2. [“Himpunan Mahasiswa Islam” (HmI)]
+Head of Member Development Division                                                                            `2020 - 2021`
+#### 3. [“Paguyuban Taliwargi Mahasiswa Asal Sukabumi” (Patwabumi)]
+Member of Interests and Talents Division                                                                       `2019 – 2020`
+#### 4. [“Organisasi Santri Pondok Pesantren Al-Ihsan”]
+Ministry of Youth and Sports Al-Istiqomah Cabinet                                                       `2019 & 2020 - 2021`
+Ministry of Internal Affairs Al-Ifroh Cabinet                                                                  `2021 - 2022`
+#### 5. [“Keluarga Mahasiswa Psikologi Se-Bandung Raya” (Kemapsibaraya)]
+Active Member of the Organization                                                                              `2019 - 2020`
+
+## Education:
+#### 1. [Sunan Gunung Djati State Islamic University, Bandung](https://uinsgd.ac.id/) | Bachelor of Psychology | Bandung `2018-2022`
+   In this Psychology Department, I am very interested in the field of Industrial and Organizational Psychology, especially in the HR specialization Recruitment specialization. I have developed some of these Skills and Knowledge on campus such as taking elective courses Industrial and Organizational Psychology, Psychology of Human Resource Management, Training, Ergonomics and Group Dynamics. In addition, I have attended the Apprenticeship Program in the Assessment Centre at PT. Kimia Farma, Tbk.
+   
+Apart from studying, I am also actively developing my interests through organizations such as being involved in every process of organizing Recruitment at Psychorescue Organizations, Islamic Student Associations and OSPAI from starting to recruit prospective members through google forms, making to distributing pamphlets related to Open Recruitment information, conducting a series of selections from starting from checking administrative completeness, giving assignments to interviews and being involved in staffing management based on the results of interviews and interest through deliberations at internal management meetings.
+
+## Publication:
+#### 1. [Journal of Psychology Student (JoPS)]
+“Modifikasi Alat Ukur Patience in Islamic Psychology”                                                                 `2022`
+#### 2. ["Digilib UIN Sunan Gunung Djati Bandung" and InSight - On Process]
+“Need for Closure sebagai Moderator Peran Fundamentalisme Agama terhadap Prasangka”                            `2022 & 2023`
+
+## Seminars, Training and Courses:
+#### 1. [Psychologycal Rescue (Psychorescue)]
+#### 2. [Psychologycal Rescue (Psychorescue)]
+#### 3. [Psychologycal Rescue (Psychorescue)]
+#### 4. [Psychologycal Rescue (Psychorescue)]
+#### 5. [Psychologycal Rescue (Psychorescue)]
+
+## Achievement:
+#### 1. [Discipline Commission of Psychology Study Orientation]                                                       `2019`
+#### 2. [Chief Executive of Cognitive Seminars and Exhibitions]                                                       `2020`
+#### 3. [Kaelani's Regent of At-Tajdid Cabinet Al-Ihsan]                                                              `2021`
+#### 4. [Head of Event Division Basic Training “Latihan Kader 1”]                                                     `2021`
+#### 5. [Chief Executive of Open House Al-Ihsan]                                                                      `2022`
+#### 6. [Secretarial Division of Al-Ihsan Orientation “Ta’aruf & LPKS”]                                        `2021 & 2023`
 
 ---
 
