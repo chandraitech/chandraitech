@@ -5,9 +5,9 @@ I am a Bachelor of Psychology graduate in 2022, with experience working for 6 mo
 Currently I am interested in a career in a mining company, because I want to hone my mentality so that I can be even better and take advantage of youth to explore places I have not visited. In addition, the position currently being applied for is compatible with My previous job, so I have a tendency to adapt more quickly to every job task and the company's work environment. In the next three years I have a goal to work in a field that is relevant to my educational background and try to stay in that job with the aim of honing my competence and mentality in a new environment.
 
 - 🔭 I’m currently working at [PT. Gistex Garmen Indonesia](https://www.gistexgarmenindonesia.com/)
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Automation and Data Analyst
+- 🌱 I’m currently learning Human Resources Developement
+- 👯 I’m looking to collaborate as Human Resources Enthusiast
+- 🤔 I’m looking for suggest for Mining Company and Human Resources
 - 💬 Ask me about anything
 - 📫 How to reach me: [chandrapsi28@gmail.com] | [WhatsApp](https://wa.me/6285872012426/)
 
